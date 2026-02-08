@@ -1,9 +1,18 @@
 
 
 
-## 문서
+## Ab
 
+<!-- profile link -->
+<p align="center">
+</p>
 * [Portfolio](https://www.yuksamgak.com)
+* [X](https://x.com/yuksamgak)
+* [GitHub](https://github.com/yuksamgak)
+
+<!-- Social icons section -->
+<p align="center">
+</p>
 
 
 Email
