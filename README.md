@@ -7,7 +7,6 @@
 
 
 ## Welcome 
-안녕하세요
 <br/>
 
 * [✦ About](https://yuksamgak.com/about)
@@ -30,7 +29,7 @@ My partner Pokémon is Rowlet. Thank you
 
 <br/>
   
-Contact
+✉️ Contact
 ```bash
 ask@yuksamgak.com
 ```
