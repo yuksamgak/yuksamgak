@@ -6,25 +6,32 @@
 
 
 
-## Hello 
-제 파트너 포켓몬은 나몰빼미입니다. 감사합니다  
+## Welcome 
+<br/>
+
+* [✦ About](https://yuksamgak.com/about)
+* [✦ Portfolio](https://www.yuksamgak.com)
+* [✦ Youtube](https://www.youtube.com/@yuksagak)
+<br/>
+
+> [!IMPORTANT]
+> 제 파트너 포켓몬은 나몰빼미입니다. 감사합니다  
 My partner Pokémon is Rowlet. Thank you
-* [✦About](https://yuksamgak.com/about)
-* [✦Portfolio](https://www.yuksamgak.com)
-* [✦Youtube](https://www.youtube.com/@yuksagak)
 
-
+<br/>
   
-
 ## My IV
 
 <img width="751" height="460" alt="ㅇ" src="https://github.com/user-attachments/assets/7399f4d8-9165-46c9-a322-584df85525d4" />
-<img width="274" height="57" alt="자산 70@3x" src="https://github.com/user-attachments/assets/7a33ae21-7c24-4736-a0ba-5f3bf1ae0e5a" />
+<p align="center">
+<img width="200" height="51" alt="자산 71@3x" src="https://github.com/user-attachments/assets/708eea98-332e-47cb-9f9a-9786716b148b" />
+</p>
 
+<br/>
+  
 Contact
 ```bash
-
-
+ask@yuksamgak.com
 ```
 
   
