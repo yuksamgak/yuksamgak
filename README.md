@@ -16,8 +16,7 @@
 <!-- Social icons section -->
 <p align="center">
 </p>
-
-<img width="1671" height="777" alt="Frame 1" src="https://github.com/user-attachments/assets/27b2bf78-f53f-451c-8da3-56cd101f9ec8" />
+<img width="3225" height="1380" alt="Frame 3" src="https://github.com/user-attachments/assets/53365226-098b-425b-bf2b-655a4faffa8d" />
 
 
 
