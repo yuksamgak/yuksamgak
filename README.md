@@ -6,18 +6,14 @@
 
 <p align="center">
 
-
 ## Hello
 제 파트너 포켓몬은 나몰빼미입니다. 감사합니다
 My partner Pokémon is Rowlet. Thank you
-
 * [About](https://yuksamgak.com/about)
-
 * [Portfolio](https://www.yuksamgak.com)
 * [Youtube](https://www.youtube.com/@yuksagak)
-
-
 </p>
+
 
 ## My IV
 <img width="2658" height="1380" alt="d" src="https://github.com/user-attachments/assets/beccc156-6d0a-4c2b-962c-e69a1bce5aee" />
