@@ -12,6 +12,8 @@
 * [✦ About](https://yuksamgak.com/about)
 * [✦ Portfolio](https://www.yuksamgak.com)
 * [✦ Youtube](https://www.youtube.com/@yuksagak)
+* [✦ Diary](https://millenniumbrotherhood.notion.site/diary)
+
 <br/>
 
 > [!IMPORTANT]
