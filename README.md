@@ -9,8 +9,7 @@
 ## Welcome 
 <br/>
 
-* [✦ About](https://yuksamgak.com/about)
-* [✦ Portfolio](https://www.yuksamgak.com)
+* [✦ Portfolio](https://www.rhuswalf.com)
 * [✦ Youtube](https://www.youtube.com/@rhuswalf)
 * [✦ Diary](https://millenniumbrotherhood.notion.site/diary)
 
