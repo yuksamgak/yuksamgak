@@ -11,6 +11,8 @@
 
 * [✦ Portfolio](https://www.rhuswalf.com)
 * [✦ Youtube](https://www.youtube.com/@rhuswalf)
+* [✦ Blog](https://www.rhuswalf.com/blog)
+* [Tilepiece](https://www.tilepiece.com)
 * [✦ Diary](https://millenniumbrotherhood.notion.site/diary)
 
 <br/>
@@ -33,6 +35,9 @@ My partner Pokémon is Rowlet. Thank you
 ✉️ Contact
 ```bash
 ask@yuksamgak.com
+```
+```bash
+support@tilepiece.com
 ```
 
   
