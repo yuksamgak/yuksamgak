@@ -12,7 +12,7 @@
 * [✦ Portfolio](https://www.rhuswalf.com)
 * [✦ Youtube](https://www.youtube.com/@rhuswalf)
 * [✦ Blog](https://www.rhuswalf.com/blog)
-* [Tilepiece](https://www.tilepiece.com)
+* [✦ Tilepiece](https://www.tilepiece.com)
 * [✦ Diary](https://millenniumbrotherhood.notion.site/diary)
 
 <br/>
@@ -27,8 +27,6 @@ My partner Pokémon is Rowlet. Thank you
 
 <img width="600" height="367" alt="ㅇ" src="https://github.com/user-attachments/assets/7399f4d8-9165-46c9-a322-584df85525d4" />
 <p align="center">
-<img width="200" height="51" alt="자산 71@3x" src="https://github.com/user-attachments/assets/708eea98-332e-47cb-9f9a-9786716b148b" />
-</p>
 
 <br/>
   
@@ -39,7 +37,8 @@ ask@yuksamgak.com
 ```bash
 support@tilepiece.com
 ```
-
+<img width="200" height="51" alt="자산 71@3x" src="https://github.com/user-attachments/assets/708eea98-332e-47cb-9f9a-9786716b148b" />
+</p>
   
 <p align="center">
 <img width="249" height="140" alt="rowlet-punch" src="https://github.com/user-attachments/assets/15fef9da-ba42-4df5-8adf-3f8f1ebc3bfb" />
